@@ -1,4 +1,4 @@
 # AsterisdoDHuse
 Asterisco3D
 
-Aserisco.unitypackage es un assets de un asterisco
+Assets_Asterisco / Aserisco.unitypackage => es el assets de un asterisco
